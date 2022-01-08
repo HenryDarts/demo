@@ -26,7 +26,7 @@
                     <img class="w-100" src="1.jpg" alt="First slide">
 
                     <div class="carousel-caption">
-                        <h5 style="color:black; font-size: 1.2em;">„ციფრული SDG-ოლიმპიადა სამოქალაქო განათლებისთვის საქართველოში“</h5>
+                        <h5 style="color:black; font-size: 1.5em;"><b>„ციფრული SDG-ოლიმპიადა სამოქალაქო განათლებისთვის საქართველოში“</b></h5>
                         <button type="button" class="btn btn-success btn-lg"><a href="articles.php" style="color:white;">სტატიების ნახვა</a></button>
                     </div>
 
