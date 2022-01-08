@@ -4,7 +4,7 @@ session_start();
 // initializing variables
 $username = "";
 $email    = "";
-$promo    = "CETF/DigitalSDG "; 
+$promo    = "CETF/DigitalSDG"; 
 $errors = array(); 
 
 // connect to the database
