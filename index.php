@@ -23,39 +23,15 @@
                 <!--სტატიების ლინკზე გადასასვლელი-->
                 <div class="carousel-item active">
 
-                    <img class="w-100" src="image/1.jpg" alt="First slide">
+                    <img class="w-100" src="1.jpg" alt="First slide">
 
                     <div class="carousel-caption">
-                        <h5>ციფრული სამოქალაქო განათლების ოლიმპიადა მდგრადი განვითარებისთვის</h5>
+                        <h5>„ციფრული SDG-ოლიმპიადა სამოქალაქო განათლებისთვის საქართველოში“</h5>
                         <button type="button" class="btn btn-success btn-lg"><a href="articles.php" style="color:white;">სტატიების ნახვა</a></button>
                     </div>
 
                 </div>
 
-                <!--პირველი-->
-                <div class="carousel-item">
-                    <img class="w-100" src="image/2.jpg" alt="First slide">
-
-                    <div class="carousel-caption">
-                        <h5>ციფრული სამოქალაქო განათლების ოლიმპიადა მდგრადი განვითარებისთვის</h5>
-                        <button type="button" class="btn btn-success btn-lg"><a href="articles.php" style="color:white;">სტატიების ნახვა</a></button>
-                    </div>
-
-                </div>
-
-                <!--მეორე-->
-                <div class="carousel-item">
-
-                    <img class="w-100" src="image/3.jpg" alt="First slide">
-
-                    <div class="carousel-caption">
-                        <h5>ციფრული სამოქალაქო განათლების ოლიმპიადა მდგრადი განვითარებისთვის</h5>
-                        <button type="button" class="btn btn-success btn-lg"><a href="articles.php" style="color:white;">სტატიების ნახვა</a></button>
-                    </div>
-
-                </div>
-
-            </div>
 
             <!--წინაზე გადასასვლელი-->
             <a class="carousel-control-prev" role="button" data-slide="prev" href="#carControls">
