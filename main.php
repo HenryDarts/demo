@@ -43,6 +43,16 @@
                         <label for="promo">პრომო კოდი</label>
                         <input type="text" class="form-control" id="promo" name="promo">
                     </div>
+                   
+                    <div class="form-group">
+                        <label for="user_type">მასწავლებელი ხართ თუ მოსწავლე?</label>
+                        <select class="form-control" id="user_type" name="user_type" size="3">
+                            <option value=""></option>
+                            <option value="Student">მოსწავლე</option>
+                            <option value="Teacher">მასწავლებელი</option>
+                         </select>
+                                            
+                    </div>   
 
                     <div class="form-group">
                         <label for="passInp">პაროლი</label>
