@@ -18,6 +18,8 @@ if (isset($_POST['reg_user'])) {
   $password_1 = mysqli_real_escape_string($db, $_POST['password_1']);
   $password_2 = mysqli_real_escape_string($db, $_POST['password_2']);
   $user_promo = mysqli_real_escape_string($db, $_POST['promo']);
+  $user_type = mysqli_real_escape_string($db, $_POST['user_type']);
+
 
   // form validation: ensure that the form is correctly filled ...
   // by adding (array_push()) corresponding error unto $errors array
@@ -25,6 +27,8 @@ if (isset($_POST['reg_user'])) {
   if (empty($email)) { array_push($errors, "ელ-ფოსტა აუცილებელია"); }
   if (empty($password_1)) { array_push($errors, "პაროლი აუცილებელია"); }
   if (empty($user_promo)) { array_push($errors, "რეგისტრაციის გასავლელად აუცილებელია პრომო კოდი"); }
+  if (empty($user_type)) { array_push($errors, "გთხოვთ მიუთითეთ, მასწავლებელი ხართ თუ მოსწავლე"); }
+
   if ($password_1 != $password_2) {
 	array_push($errors, "პაროლები არ ემთხვევა ერთმანეთს");
   }
@@ -53,8 +57,8 @@ if (isset($_POST['reg_user'])) {
   if (count($errors) == 0) {
   	$password = md5($password_1);//encrypt the password before saving in the database
 
-  	$query = "INSERT INTO users (username, email, password) 
-  			  VALUES('$username', '$email', '$password')";
+  	$query = "INSERT INTO users (username, email, password, usertype) 
+  			  VALUES('$username', '$email', '$password', '$user_type')";
   	mysqli_query($db, $query);
   	$_SESSION['username'] = $username;
   	header('location: articles.php');
