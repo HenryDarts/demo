@@ -25,10 +25,6 @@
 
                     <img class="w-100" src="main.png" alt="First slide">
 
-                    <div class="carousel-caption pt-2">
-                        <button type="button" class="btn btn-secondary btn-lg"><a href="articles.php" style="color:white;">სტატიების ნახვა</a></button>
-                    </div>
-
                 </div>
 
 
