@@ -23,7 +23,7 @@
                 <!--სტატიების ლინკზე გადასასვლელი-->
                 <div class="carousel-item active">
 
-                    <img class="w-100" src="1.jpg" alt="First slide">
+                    <img class="w-100" src="main.png" alt="First slide">
 
                     <div class="carousel-caption">
                         <button type="button" class="btn btn-success btn-lg"><a href="articles.php" style="color:white;">სტატიების ნახვა</a></button>
