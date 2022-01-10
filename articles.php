@@ -675,7 +675,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/2.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/2.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
@@ -695,7 +695,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/3.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/3.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
@@ -715,7 +715,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/4.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/4.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
@@ -735,7 +735,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/5.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/5.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
@@ -755,7 +755,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/6.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/6.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
@@ -775,7 +775,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/7.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/7.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
@@ -795,7 +795,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/8.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/8.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
@@ -815,7 +815,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/9.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/9.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
@@ -835,7 +835,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/10.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/10.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
@@ -855,7 +855,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/11.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/11.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
@@ -875,7 +875,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/12.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/12.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
@@ -895,7 +895,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/13.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/13.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
@@ -915,7 +915,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/14.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/14.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
@@ -935,7 +935,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/15.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/15.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
@@ -955,7 +955,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/16.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/16.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
@@ -975,7 +975,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/17.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/17.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
