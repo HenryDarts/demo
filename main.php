@@ -46,7 +46,7 @@
                    
                     <div class="form-group">
                         <label for="user_type">მასწავლებელი ხართ თუ მოსწავლე?</label>
-                        <select class="mdb-select md-form" id="user_type" name="user_type" size="3">
+                        <select class="browser-default custom-select" id="user_type" name="user_type" size="3">
                             <option value="" disabled selected></option>
                             <option value="Student">მოსწავლე</option>
                             <option value="Teacher">მასწავლებელი</option>
