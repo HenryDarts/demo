@@ -655,7 +655,7 @@
                 </div>
 
                 <div class="modal-body">
-                    <embed src="pdfs/1.pdf" frameborder="0" width="100%" height="720pc">
+                  <iframe src="pdfs/1.pdf" frameborder="0" width="100%" height="720pc"></iframe>
                 </div>
 
             </div>
