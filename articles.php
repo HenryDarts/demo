@@ -289,7 +289,7 @@
                                 <div class="display-table-cell">
                                     <div class="team-details">
                                         <h4 class="team-name">
-                                            <a data-toggle="modal" data-target="#md7">წყლის რესურსების მდგრადი მართვისა და სანიტარიაზე ხელმისაწვდომობის საყოველთაო უზრუნველყოფა.</a>
+                                            <a data-toggle="modal" data-target="#md7">ხელმისაწვდომი,საიმედო, მდგრადი და თანამედროვე ენერგიის საყოველთაო ხელმისაწვდომობის უზრუნველყოფა</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -323,7 +323,7 @@
                                 <div class="display-table-cell">
                                     <div class="team-details">
                                         <h4 class="team-name">
-                                            <a data-toggle="modal" data-target="#md8">წყლის რესურსების მდგრადი მართვისა და სანიტარიაზე ხელმისაწვდომობის საყოველთაო უზრუნველყოფა.</a>
+                                            <a data-toggle="modal" data-target="#md8">სტაბილური, ინკლუზიური და მდგრადი ეკონომიკური ზრდის ხელშეწყობა, სრული და პროდუქტიული დასაქმება და ღირსეული სამუშაო ყველასათვის. </a>
                                         </h4>
                                     </div>
                                 </div>
@@ -357,7 +357,7 @@
                                 <div class="display-table-cell">
                                     <div class="team-details">
                                         <h4 class="team-name">
-                                            <a data-toggle="modal" data-target="#md9">წყლის რესურსების მდგრადი მართვისა და სანიტარიაზე ხელმისაწვდომობის საყოველთაო უზრუნველყოფა.</a>
+                                            <a data-toggle="modal" data-target="#md9">მდგრადი ინფრასტრუქტურის შექმნა, ინკლუზიური და მდგრადი ინდუსტრიალიზაციისა და ინოვაციების ხელშეწყობა</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -391,7 +391,7 @@
                                 <div class="display-table-cell">
                                     <div class="team-details">
                                         <h4 class="team-name">
-                                            <a data-toggle="modal" data-target="#md10">წყლის რესურსების მდგრადი მართვისა და სანიტარიაზე ხელმისაწვდომობის საყოველთაო უზრუნველყოფა.</a>
+                                            <a data-toggle="modal" data-target="#md10">უთანასწორობის შემცირება ქვეყნებში და ქვეყნებს შორის</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -425,7 +425,7 @@
                                 <div class="display-table-cell">
                                     <div class="team-details">
                                         <h4 class="team-name">
-                                            <a data-toggle="modal" data-target="#md11">წყლის რესურსების მდგრადი მართვისა და სანიტარიაზე ხელმისაწვდომობის საყოველთაო უზრუნველყოფა.</a>
+                                            <a data-toggle="modal" data-target="#md11">: ქალაქებისა და დასახლებების ინკლუზიური, უსაფრთხო, მოქნილი და მდგრადი განვითარება.</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -459,7 +459,7 @@
                                 <div class="display-table-cell">
                                     <div class="team-details">
                                         <h4 class="team-name">
-                                            <a data-toggle="modal" data-target="#md12">წყლის რესურსების მდგრადი მართვისა და სანიტარიაზე ხელმისაწვდომობის საყოველთაო უზრუნველყოფა.</a>
+                                            <a data-toggle="modal" data-target="#md12">მდგრადი მოხმარებისა და წარმოების უზრუნველყოფა.</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -493,7 +493,7 @@
                                 <div class="display-table-cell">
                                     <div class="team-details">
                                         <h4 class="team-name">
-                                            <a data-toggle="modal" data-target="#md13">წყლის რესურსების მდგრადი მართვისა და სანიტარიაზე ხელმისაწვდომობის საყოველთაო უზრუნველყოფა.</a>
+                                            <a data-toggle="modal" data-target="#md13">კლიმატის ცვლილებისა და მისი ზეგავლენის წინააღმდეგ გადაუდებელი ზომების გატარება. </a>
                                         </h4>
                                     </div>
                                 </div>
@@ -527,7 +527,7 @@
                                 <div class="display-table-cell">
                                     <div class="team-details">
                                         <h4 class="team-name">
-                                            <a data-toggle="modal" data-target="#md14">წყლის რესურსების მდგრადი მართვისა და სანიტარიაზე ხელმისაწვდომობის საყოველთაო უზრუნველყოფა.</a>
+                                            <a data-toggle="modal" data-target="#md14">ოკეანეების, ზღვებისა და ზღვის რესურსების კონსერვაცია და მდგრადი გამოყენება მდგრადი განვითარებისათვის. </a>
                                         </h4>
                                     </div>
                                 </div>
@@ -561,7 +561,7 @@
                                 <div class="display-table-cell">
                                     <div class="team-details">
                                         <h4 class="team-name">
-                                            <a data-toggle="modal" data-target="#md15">წყლის რესურსების მდგრადი მართვისა და სანიტარიაზე ხელმისაწვდომობის საყოველთაო უზრუნველყოფა.</a>
+                                            <a data-toggle="modal" data-target="#md15">ხმელეთის ეკოსისტემების დაცვა, აღდგენა და მდგრადი გამოყენება, ტყის მდგრადი მართვა, გაუდაბნოების წინააღმდეგ ბრძოლა, ნიადაგის დეგრადაციის შეჩერება და აღდგენაგაუმჯობესება, ბიომრავალფეროვნების კარგვის შეჩერება. </a>
                                         </h4>
                                     </div>
                                 </div>
@@ -595,7 +595,7 @@
                                 <div class="display-table-cell">
                                     <div class="team-details">
                                         <h4 class="team-name">
-                                            <a data-toggle="modal" data-target="#md16">წყლის რესურსების მდგრადი მართვისა და სანიტარიაზე ხელმისაწვდომობის საყოველთაო უზრუნველყოფა.</a>
+                                            <a data-toggle="modal" data-target="#md16">მშვიდობიანი და ინკლუზიური საზოგადოების ჩამოყალიბების ხელშეწყობა მდგრადი განვითარებისათვის, მართლმსაჯულებაზე ხელმისაწვდომობის უზრუნველყოფა ყველასათვის, ეფექტიანი, ანგარიშვალდებული და ინკლუზიური ინსტიტუციების მშენებლობა ყველა დონეზე. </a>
                                         </h4>
                                     </div>
                                 </div>
@@ -629,7 +629,7 @@
                                 <div class="display-table-cell">
                                     <div class="team-details">
                                         <h4 class="team-name">
-                                            <a data-toggle="modal" data-target="#md17">წყლის რესურსების მდგრადი მართვისა და სანიტარიაზე ხელმისაწვდომობის საყოველთაო უზრუნველყოფა.</a>
+                                            <a data-toggle="modal" data-target="#md17">განხორციელების საშუალებების და გლობალური პარტნიორობის გაძლიერება მდგრადი განვითარებისთვის </a>
                                         </h4>
                                     </div>
                                 </div>
